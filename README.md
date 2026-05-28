@@ -27,13 +27,6 @@ This repository contains two complete Machine Learning classification projects b
 - Seaborn
 - Scikit-learn
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/ML-Healthcare-AI-Projects.git
 
 ---
 
