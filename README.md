@@ -47,3 +47,8 @@ This repository contains two complete Machine Learning classification projects b
 Sharmake Abdi Abdullahi
 Software Engineering Student
 Data Science & Machine Learning Enthusiast
+
+## Project Updates
+
+This project is actively maintained.
+New features and improvements are coming soon.
