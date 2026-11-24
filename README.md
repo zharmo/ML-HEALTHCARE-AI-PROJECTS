@@ -51,4 +51,4 @@ Data Science & Machine Learning Enthusiast
 ## Project Updates
 
 This project is actively maintained.
-New features and improvements are coming soon.
+New features and improvements are coming soon
